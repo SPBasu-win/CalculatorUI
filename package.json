@@ -1,0 +1,23 @@
+{
+  "name": "val",
+  "version": "1.0.0",
+  "description": "![image](https://github.com/user-attachments/assets/21973ea8-e9e3-4217-a96d-219efe032417)",
+  "main": "script.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SPBasu-win/CalculatorUI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SPBasu-win/CalculatorUI/issues"
+  },
+  "homepage": "https://github.com/SPBasu-win/CalculatorUI#readme"
+}
